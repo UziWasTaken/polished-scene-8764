@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-8 bg-gradient-to-b from-purple-100 to-white dark:from-purple-900 dark:to-gray-900">
       <div className="z-10 w-full max-w-5xl items-center justify-between font-sans text-lg">
         <h1 className="text-4xl font-bold text-center text-purple-700 dark:text-purple-300 mb-8">
-          Kanna's Adventure
+          Kanna&apos;s Adventure
         </h1>
         <p className="text-center text-purple-600 dark:text-purple-200 mb-12">
           Join Kanna Kamui in her daily adventures in the human world!
@@ -29,7 +29,7 @@ export default function Home() {
             Daily Life
           </h2>
           <p className="text-purple-600 dark:text-purple-200">
-            Follow Kanna's everyday adventures at school and home
+            Follow Kanna&apos;s everyday adventures at school and home
           </p>
         </div>
 
@@ -47,7 +47,7 @@ export default function Home() {
             Dragon Facts
           </h2>
           <p className="text-purple-600 dark:text-purple-200">
-            Learn about dragon life and Kanna's special abilities
+            Learn about dragon life and Kanna&apos;s special abilities
           </p>
         </div>
 
@@ -62,7 +62,7 @@ export default function Home() {
       </div>
 
       <footer className="mt-16 text-center text-purple-500 dark:text-purple-300">
-        <p>© 2024 Kanna's Adventure - A Dragon's Life in the Human World</p>
+        <p>© 2024 Kanna&apos;s Adventure - A Dragon&apos;s Life in the Human World</p>
       </footer>
     </main>
   );
